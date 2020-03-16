@@ -1,0 +1,12 @@
+button{
+  width: 30px;
+  padding: 10px;
+  background-color: palegoldenrod;
+  outline: none;
+}
+.arith{
+  background-color: orange;
+}
+.clear{
+  width: 40px;
+}
